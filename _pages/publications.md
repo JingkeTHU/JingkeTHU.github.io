@@ -12,19 +12,15 @@ redirect_from:
 1. [Improved ultrafast power Doppler imaging by using spatiotemporal non-local means filtering](https://ieeexplore.ieee.org/document/9732976)<br>
   L. Huang, **J. Zhang**, X. Wei, L. Jing, Q. He, X. Xie, G. Wang and J. Luo*<br>
   IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (**TUFFC**), 69(5):1610-1624, 2022.<br>
-  
 2. [In vivo Assessment of Hypertensive Nephrosclerosis using Ultrasound Localization Microscopy](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.15583)<br>
   L. Qiu#, **J. Zhang#**, Y. Yang#, H. Zhang, F. Lee, Q. He, L. Qian* and J. Luo*<br>
   Medical Physics, 49(4):2295-2308, 2022.<br>
-  
 3. [Partial Hadamard Encoded Synthetic Transmit Aperture for High Frame Rate Imaging with Minimal l2-Norm Least Square Method](https://iopscience.iop.org/article/10.1088/1361-6560/ac6202)<br>
   **J. Zhang#**, J. Liu#, W. Fan, W. Qiu and J. Luo*<br>
   Physics in Medicine and Biology, 67(10):105002, 2022.<br>
-  
 4. [Acceleration of Reconstruction for Compressed Sensing based Synthetic Transmit Aperture Imaging by using In-phase/quadrature Data](https://www.sciencedirect.com/science/article/abs/pii/S0041624X2100202X?via%3Dihub)<br>
   **J. Zhang#**, Y. Wang#, J. Liu, Q. He, R. Wang, H. Liao and J. Luo*<br>
   Ultrasonics, 118:106576, 2022.<br>
-  
 5. [Ultrasound Image Reconstruction from Plane Wave Radio-frequency Data by Self-Supervised Deep Neural Network](https://www.sciencedirect.com/science/article/pii/S1361841521000645?via%3Dihub)<br>
   **J. Zhang**, Q. He, Y. Xiao, H. Zheng, C. Wang* and J. Luo*<br>
   Medical Image Analysis, 70(5):102018, 2021.<br>
