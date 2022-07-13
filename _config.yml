@@ -14,7 +14,7 @@ description              : &description "Personal Website"
 url                      : https://JingkeTHU.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JingkeTHU/JingkeTHU.github.io"
-teaser                   : "profile.png"
+teaser                   : "profile_Jingke.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Jingke Zhang"
-  avatar           : "profile.png"
+  avatar           : "profile_Jingke.png"
   bio              : "Research Fellow, Mayo Clinic"
   location         : "Rochester, MN"
   employer         :
