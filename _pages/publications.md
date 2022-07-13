@@ -9,12 +9,12 @@ redirect_from:
 
 ### Peer Reviewed Journal Articles
   
-1. [Improved ultrafast power Doppler imaging by using spatiotemporal non-local means filtering](https://ieeexplore.ieee.org/document/9732976)<br>
+**2022** [Improved ultrafast power Doppler imaging by using spatiotemporal non-local means filtering](https://ieeexplore.ieee.org/document/9732976)<br>
   L. Huang, **J. Zhang**, X. Wei, L. Jing, Q. He, X. Xie, G. Wang and J. Luo*<br>
-  IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (**TUFFC**), 69(5):1610-1624, 2022.<br>
-2. [In vivo Assessment of Hypertensive Nephrosclerosis using Ultrasound Localization Microscopy](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.15583)<br>
+  IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (**TUFFC**), 69(5):1610-1624.<br>
+**2022** [In vivo Assessment of Hypertensive Nephrosclerosis using Ultrasound Localization Microscopy](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.15583)<br>
   L. Qiu#, **J. Zhang#**, Y. Yang#, H. Zhang, F. Lee, Q. He, L. Qian* and J. Luo*<br>
-  Medical Physics, 49(4):2295-2308, 2022.<br>
+  Medical Physics, 49(4):2295-2308.<br>
 3. [Partial Hadamard Encoded Synthetic Transmit Aperture for High Frame Rate Imaging with Minimal l2-Norm Least Square Method](https://iopscience.iop.org/article/10.1088/1361-6560/ac6202)<br>
   **J. Zhang#**, J. Liu#, W. Fan, W. Qiu and J. Luo*<br>
   Physics in Medicine and Biology, 67(10):105002, 2022.<br>
