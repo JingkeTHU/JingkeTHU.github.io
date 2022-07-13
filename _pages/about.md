@@ -10,7 +10,7 @@ redirect_from:
 
 ## About me
 Hello, I am Jingke Zhang, a PosDoc at Mayo Clinic (Rochester, MN), working with Professor [Shigao Chen](https://www.mayo.edu/research/faculty/chen-shigao-ph-d/bio-00027435). Currently, my research mainly focuses on Medical Ultrasound Imaging.  
-I graduated from Tsinghua University (China) in Jun 2022 and received my Ph.D. degree in Biomedical Engineering with honor, advised by Professor [Jianwen Luo](https://www.med.tsinghua.edu.cn/en/info/1357/1469.htm). Before that, I received my B.S. degree with honor from Huazhong University of Science and Technology (China) in Jun 2017.  
+I graduated from Tsinghua University (China) in Jun 2022 and received my Ph.D. degree in Biomedical Engineering with honor (advised by Professor [Jianwen Luo](https://www.med.tsinghua.edu.cn/en/info/1357/1469.htm)). Before that, I received my B.S. degree with honor from Huazhong University of Science and Technology (China) in Jun 2017.  
 Feel free to contact me via e-mail at <zjk17@tsinghua.org.cn> or <jingke.zhang96@gmail.com>.
 
   
