@@ -18,6 +18,6 @@ Feel free to contact me via e-mail at <zjk17@tsinghua.org.cn> or <jingke.zhang96
   
 
 ## News
-* 07/2022: I will join the Ultrasound Lab at Mayo Clinic as a Research Fellow, working with Professor [Shigao Chen](https://www.mayo.edu/research/faculty/chen-shigao-ph-d/bio-00027435).
+* 07/2022: I will join the Ultrasound Lab at Mayo Clinic as a PosDoc, working with Professor [Shigao Chen](https://www.mayo.edu/research/faculty/chen-shigao-ph-d/bio-00027435).
 * 06/2022: I graduate from Tsinghua University (China) and receive my Ph.D. degree with honor. [News](https://mp.weixin.qq.com/s/G3cXNY4BzEuFUjZU0fQ5Cw)
 
